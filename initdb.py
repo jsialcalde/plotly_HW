@@ -1,4 +1,4 @@
-from belly_button.app import bellybutton
+from belly_button.app import db
 
-# bellybutton.drop_all()
-bellybutton.create_all()
+# db.drop_all()
+db.create_all()
